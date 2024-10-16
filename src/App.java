@@ -46,7 +46,7 @@ if (ika > 0 && ika < 18)
     }
     
         if(ika == 10 || ika == 20 || ika == 20 || ika == 30 || ika == 40 || ika == 50 || ika == 60 || ika == 70 || ika == 80 || ika == 90) {
-        System.out.println("Onnea tasavuosista"); }
+        System.out.println("Onnea tasavuosista!"); }
     
     }else if (ika >= 65) {
     

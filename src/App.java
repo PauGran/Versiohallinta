@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
 
-int ika = 18;
+int ika = 19;
 
 // Tulostusehdot
 
